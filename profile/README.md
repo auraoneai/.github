@@ -19,3 +19,11 @@ All MIT licensed.
 | [lerobot-quality-gates](https://github.com/auraoneai/lerobot-quality-gates) | Check a LeRobot-style dataset's metadata, episodes, timestamps and video references before training or publication. |
 | [Rubric Studio Open](https://github.com/auraoneai/rubric-studio-open) | Author, validate, preview, calibrate, diff, and export criterion-level AI evaluation rubrics. |
 | [Agent Studio Open](https://github.com/auraoneai/agent-studio-open) | Connect agent systems, inspect tool traces, replay failures, compare candidates, and export regression evidence. |
+
+## Packages
+
+Python, on PyPI: [auraone-evalkit](https://pypi.org/project/auraone-evalkit/), [rubric-spec](https://pypi.org/project/rubric-spec/), [iaa-kit](https://pypi.org/project/iaa-kit/), [judge-bench](https://pypi.org/project/judge-bench/), [lerobot-quality-gates](https://pypi.org/project/lerobot-quality-gates/).
+
+JavaScript, on npm under the @auraone scope: [@auraone/sdk](https://www.npmjs.com/package/@auraone/sdk), [@auraone/agent-studio](https://www.npmjs.com/package/@auraone/agent-studio), [@auraone/github-app](https://www.npmjs.com/package/@auraone/github-app), [@auraone/aura-ide-kit](https://www.npmjs.com/package/@auraone/aura-ide-kit), [@auraone/platform-contracts](https://www.npmjs.com/package/@auraone/platform-contracts), [@auraone/proofline-oss](https://www.npmjs.com/package/@auraone/proofline-oss).
+
+Datasets, on Hugging Face: [auraone](https://huggingface.co/auraone).
